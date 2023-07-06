@@ -1,0 +1,181 @@
+[Sun Feb 05 00:00:02.265320 2023] [ssl:warn] [pid 316886] AH01906: q-boomverzorger.nl:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sun Feb 05 00:14:03.923505 2023] [core:error] [pid 665490] [client 162.221.192.26:48542] AH10244: invalid URI path (/icons/.%2e/%2e%2e/apache2/icons/sphere1.png)
+[Sun Feb 05 00:14:04.858667 2023] [core:error] [pid 665491] [client 162.221.192.26:50024] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/sphere1.png)
+[Sun Feb 05 00:14:05.621568 2023] [core:error] [pid 666523] [client 162.221.192.26:51600] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/non-existant-image.png)
+[Sun Feb 05 04:40:51.909464 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/phpinfo.php' not found or unable to stat
+[Sun Feb 05 04:40:52.188892 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/info.php' not found or unable to stat
+[Sun Feb 05 04:40:56.278905 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/php.php' not found or unable to stat
+[Sun Feb 05 04:40:56.585117 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/infophp.php' not found or unable to stat
+[Sun Feb 05 04:40:56.754152 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/php_info.php' not found or unable to stat
+[Sun Feb 05 04:40:56.999933 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/test.php' not found or unable to stat
+[Sun Feb 05 04:40:57.269378 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/i.php' not found or unable to stat
+[Sun Feb 05 04:40:57.423864 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/asdf.php' not found or unable to stat
+[Sun Feb 05 04:40:57.560093 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/pinfo.php' not found or unable to stat
+[Sun Feb 05 04:40:57.774993 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/phpversion.php' not found or unable to stat
+[Sun Feb 05 04:40:57.991686 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/time.php' not found or unable to stat
+[Sun Feb 05 04:40:58.364393 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/index.php' not found or unable to stat
+[Sun Feb 05 04:40:58.640164 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/temp.php' not found or unable to stat
+[Sun Feb 05 04:40:58.879475 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/old_phpinfo.php' not found or unable to stat
+[Sun Feb 05 04:40:59.165169 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/infos.php' not found or unable to stat
+[Sun Feb 05 04:40:59.318623 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/linusadmin-phpinfo.php' not found or unable to stat
+[Sun Feb 05 04:40:59.572169 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/php-info.php' not found or unable to stat
+[Sun Feb 05 04:41:00.004475 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/a.php' not found or unable to stat
+[Sun Feb 05 04:41:00.410735 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/php1.php' not found or unable to stat
+[Sun Feb 05 04:41:00.573855 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/adminphp.php' not found or unable to stat
+[Sun Feb 05 04:41:01.001466 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/123.php' not found or unable to stat
+[Sun Feb 05 04:41:01.144608 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/infophp.php' not found or unable to stat
+[Sun Feb 05 04:41:01.419680 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/isadmin.php' not found or unable to stat
+[Sun Feb 05 04:41:02.002966 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/jo.php' not found or unable to stat
+[Sun Feb 05 04:41:02.304670 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/lindex.php' not found or unable to stat
+[Sun Feb 05 04:41:02.498901 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/new.php' not found or unable to stat
+[Sun Feb 05 04:41:03.873712 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/phpinfos.php' not found or unable to stat
+[Sun Feb 05 04:41:04.113178 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/phptest.php' not found or unable to stat
+[Sun Feb 05 04:41:04.761973 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/pi.php' not found or unable to stat
+[Sun Feb 05 04:41:05.362384 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/qq.php' not found or unable to stat
+[Sun Feb 05 04:41:05.637861 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/test0.php' not found or unable to stat
+[Sun Feb 05 04:41:06.125148 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/test1.php' not found or unable to stat
+[Sun Feb 05 04:41:06.477144 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/test123.php' not found or unable to stat
+[Sun Feb 05 04:41:06.982140 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/test2.php' not found or unable to stat
+[Sun Feb 05 04:41:07.202390 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/test3.php' not found or unable to stat
+[Sun Feb 05 04:41:07.391879 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/test4.php' not found or unable to stat
+[Sun Feb 05 04:41:07.671904 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/test5.php' not found or unable to stat
+[Sun Feb 05 04:41:07.993706 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/test6.php' not found or unable to stat
+[Sun Feb 05 04:41:08.504682 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/test7.php' not found or unable to stat
+[Sun Feb 05 04:41:08.724742 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/test8.php' not found or unable to stat
+[Sun Feb 05 04:41:08.857937 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/test9.php' not found or unable to stat
+[Sun Feb 05 04:41:09.094628 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/up.php' not found or unable to stat
+[Sun Feb 05 04:41:09.491974 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/w.php' not found or unable to stat
+[Sun Feb 05 04:41:09.701981 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/wp.php' not found or unable to stat
+[Sun Feb 05 04:41:09.823948 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/apache.php' not found or unable to stat
+[Sun Feb 05 04:41:10.807222 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/web.php' not found or unable to stat
+[Sun Feb 05 04:41:10.995123 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/token.php' not found or unable to stat
+[Sun Feb 05 04:41:13.657130 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/cache.php' not found or unable to stat
+[Sun Feb 05 04:41:16.010627 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/in.php' not found or unable to stat
+[Sun Feb 05 04:41:16.265140 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/dev.php' not found or unable to stat
+[Sun Feb 05 04:41:16.476624 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/devs.php' not found or unable to stat
+[Sun Feb 05 04:41:16.635432 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/ini.php' not found or unable to stat
+[Sun Feb 05 04:41:17.087515 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/apache2.php' not found or unable to stat
+[Sun Feb 05 04:41:17.969473 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/developer.php' not found or unable to stat
+[Sun Feb 05 04:41:18.528702 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/phpinfodev.php' not found or unable to stat
+[Sun Feb 05 04:41:19.484004 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/x.php' not found or unable to stat
+[Sun Feb 05 04:41:19.686104 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/of.php' not found or unable to stat
+[Sun Feb 05 04:41:19.885713 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/l.php' not found or unable to stat
+[Sun Feb 05 04:41:21.753238 2023] [php:error] [pid 665488] [client 44.201.60.88:37618] script '/media/disk/server/q-boomverzorger/public_html/index1.php' not found or unable to stat
+[Sun Feb 05 04:41:24.495835 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/rest.php' not found or unable to stat
+[Sun Feb 05 04:41:24.906968 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/inf.php' not found or unable to stat
+[Sun Feb 05 04:41:25.169371 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/info1.php' not found or unable to stat
+[Sun Feb 05 04:41:25.468597 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/info2.php' not found or unable to stat
+[Sun Feb 05 04:41:25.623378 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/info3.php' not found or unable to stat
+[Sun Feb 05 04:41:25.879448 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/info4.php' not found or unable to stat
+[Sun Feb 05 04:41:26.397371 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/phpinfo1.php' not found or unable to stat
+[Sun Feb 05 04:41:26.593872 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/phpinfo2.php' not found or unable to stat
+[Sun Feb 05 04:41:26.848699 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/phpinfo3.php' not found or unable to stat
+[Sun Feb 05 04:41:27.109171 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/phpinfo4.php' not found or unable to stat
+[Sun Feb 05 04:41:27.399180 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/o.php' not found or unable to stat
+[Sun Feb 05 04:41:27.710091 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/test_info.php' not found or unable to stat
+[Sun Feb 05 04:41:28.345974 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/test_info2.php' not found or unable to stat
+[Sun Feb 05 04:41:28.595339 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/test_info1.php' not found or unable to stat
+[Sun Feb 05 04:41:28.915698 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/test_info3.php' not found or unable to stat
+[Sun Feb 05 04:41:29.089371 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/test_info4.php' not found or unable to stat
+[Sun Feb 05 04:41:29.363893 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/test_info5.php' not found or unable to stat
+[Sun Feb 05 04:41:29.561520 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/test_phpinfo.php' not found or unable to stat
+[Sun Feb 05 04:41:29.819964 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/test_phpinfo1.php' not found or unable to stat
+[Sun Feb 05 04:41:30.022892 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/test_phpinfo2.php' not found or unable to stat
+[Sun Feb 05 04:41:30.240414 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/test_phpinfo3.php' not found or unable to stat
+[Sun Feb 05 04:41:30.500884 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/test_phpinfo4.php' not found or unable to stat
+[Sun Feb 05 04:41:30.696132 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/test_phpinfo5.php' not found or unable to stat
+[Sun Feb 05 04:41:31.733427 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/p.php' not found or unable to stat
+[Sun Feb 05 04:41:31.916471 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/ocp.php' not found or unable to stat
+[Sun Feb 05 04:41:33.208340 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/phpsysinfo.php' not found or unable to stat
+[Sun Feb 05 04:41:35.225953 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/deploy.php' not found or unable to stat
+[Sun Feb 05 04:41:35.347856 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/dep.php' not found or unable to stat
+[Sun Feb 05 04:41:35.669920 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/main.php' not found or unable to stat
+[Sun Feb 05 04:41:35.871978 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/tz.php' not found or unable to stat
+[Sun Feb 05 04:41:36.558612 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/u.php' not found or unable to stat
+[Sun Feb 05 04:41:36.959986 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/q.php' not found or unable to stat
+[Sun Feb 05 04:41:37.234357 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/testing.php' not found or unable to stat
+[Sun Feb 05 04:41:37.607147 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/tester.php' not found or unable to stat
+[Sun Feb 05 04:41:38.034975 2023] [php:error] [pid 665491] [client 44.201.60.88:39772] script '/media/disk/server/q-boomverzorger/public_html/build.php' not found or unable to stat
+[Sun Feb 05 16:26:03.376842 2023] [cgi:error] [pid 719191] [client 128.14.133.58:33090] AH02811: script not found or unable to stat: /media/disk/server/q-boomverzorger/cgi-bin/config.exp
+[Mon Feb 06 00:00:02.393077 2023] [ssl:warn] [pid 316886] AH01906: q-boomverzorger.nl:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Feb 06 23:36:03.507730 2023] [php:error] [pid 750285] [client 152.89.196.211:39304] script '/media/disk/server/q-boomverzorger/public_html/index.php' not found or unable to stat
+[Tue Feb 07 00:00:02.484100 2023] [ssl:warn] [pid 316886] AH01906: q-boomverzorger.nl:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Feb 07 01:27:53.423577 2023] [core:error] [pid 849806] [client 152.89.196.211:57186] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Wed Feb 08 00:00:03.330384 2023] [ssl:warn] [pid 316886] AH01906: q-boomverzorger.nl:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Feb 08 00:52:54.125782 2023] [php:error] [pid 944287] [client 192.236.193.184:43308] script '/media/disk/server/q-boomverzorger/public_html/emergency.php' not found or unable to stat
+[Wed Feb 08 17:31:01.631277 2023] [ssl:warn] [pid 316886] AH01906: q-boomverzorger.nl:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Feb 08 17:38:03.517406 2023] [ssl:warn] [pid 316886] AH01906: q-boomverzorger.nl:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Feb 08 17:39:48.297950 2023] [ssl:warn] [pid 316886] AH01906: q-boomverzorger.nl:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Feb 08 18:22:55.401470 2023] [ssl:warn] [pid 316886] AH01906: q-boomverzorger.nl:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Feb 08 21:54:15.622407 2023] [php:error] [pid 1040448] [client 34.78.147.220:59848] script '/media/disk/server/q-boomverzorger/public_html/install.php' not found or unable to stat
+[Thu Feb 09 07:50:49.943872 2023] [cgi:error] [pid 1051390] [client 198.16.76.28:26425] End of script output before headers: php8.1.cgi
+[Thu Feb 09 07:51:12.951298 2023] [cgi:error] [pid 1079211] [client 198.16.76.28:26435] End of script output before headers: php8.1.cgi
+[Thu Feb 09 07:53:29.134684 2023] [cgi:error] [pid 1055804] [client 198.16.76.28:26447] End of script output before headers: php8.1.cgi
+[Thu Feb 09 07:53:32.142252 2023] [cgi:error] [pid 1051393] [client 198.16.76.28:26463] End of script output before headers: php8.1.cgi
+[Thu Feb 09 07:53:50.294084 2023] [cgi:error] [pid 1079210] [client 49.36.81.72:49972] End of script output before headers: php8.1.cgi
+[Thu Feb 09 07:53:56.835047 2023] [cgi:error] [pid 1051390] [client 49.36.81.72:49970] End of script output before headers: php8.1.cgi
+[Thu Feb 09 07:56:29.600170 2023] [cgi:error] [pid 1051759] [client 49.36.81.72:55070] End of script output before headers: php8.1.cgi
+[Thu Feb 09 07:57:21.018900 2023] [cgi:error] [pid 1055804] [client 198.16.70.27:4215] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:13:36.118798 2023] [cgi:error] [pid 1051759] [client 95.97.116.11:31773] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:13:51.703155 2023] [cgi:error] [pid 1079211] [client 95.97.116.11:31772] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:16:05.416967 2023] [cgi:error] [pid 1051393] [client 95.97.116.11:31877] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:16:11.304055 2023] [cgi:error] [pid 1079210] [client 95.97.116.11:31885] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:17:31.118901 2023] [cgi:error] [pid 1079211] [client 95.97.116.11:31902] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:17:34.399013 2023] [cgi:error] [pid 1051392] [client 95.97.116.11:31903] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:17:38.459757 2023] [cgi:error] [pid 1055804] [client 95.97.116.11:31905] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:18:52.730593 2023] [cgi:error] [pid 1051390] [client 95.97.116.11:32023] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:20:14.420495 2023] [cgi:error] [pid 1051393] [client 95.97.116.11:32035] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:20:21.444728 2023] [cgi:error] [pid 1117560] [client 95.97.116.11:32036] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:36:29.943032 2023] [cgi:error] [pid 1051390] [client 95.97.116.11:32941] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:48:14.863431 2023] [cgi:error] [pid 1117560] [client 95.97.116.11:33092] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:48:20.393261 2023] [cgi:error] [pid 1055802] [client 95.97.116.11:33093] End of script output before headers: php8.1.cgi
+[Thu Feb 09 14:57:49.165980 2023] [cgi:error] [pid 1051390] [client 95.97.116.11:33391] End of script output before headers: php8.1.cgi
+[Thu Feb 09 15:00:47.380439 2023] [cgi:error] [pid 1117560] [client 95.97.116.11:33469] End of script output before headers: php8.1.cgi
+[Thu Feb 09 20:09:59.021051 2023] [cgi:error] [pid 1146609] [client 95.97.116.11:34968] End of script output before headers: php8.1.cgi
+[Thu Feb 09 20:10:02.373545 2023] [cgi:error] [pid 1146610] [client 95.97.116.11:34969] End of script output before headers: php8.1.cgi
+[Thu Feb 09 20:10:05.155328 2023] [cgi:error] [pid 1150559] [client 95.97.116.11:34970] End of script output before headers: php8.1.cgi
+[Thu Feb 09 20:10:07.205922 2023] [cgi:error] [pid 1117560] [client 95.97.116.11:34972] End of script output before headers: php8.1.cgi
+[Thu Feb 09 20:10:15.528379 2023] [cgi:error] [pid 1055803] [client 95.97.116.11:34973] End of script output before headers: php8.1.cgi
+[Thu Feb 09 20:10:29.223985 2023] [cgi:error] [pid 1055804] [client 95.97.116.11:34974] End of script output before headers: php8.1.cgi
+[Thu Feb 09 20:15:54.158858 2023] [cgi:error] [pid 1146608] [client 95.97.116.11:35268] End of script output before headers: php8.1.cgi
+[Thu Feb 09 20:16:00.183952 2023] [cgi:error] [pid 1117560] [client 95.97.116.11:35269] End of script output before headers: php8.1.cgi
+[Thu Feb 09 20:17:41.496517 2023] [cgi:error] [pid 1142777] [client 95.97.116.11:35365] End of script output before headers: php8.1.cgi
+[Thu Feb 09 20:28:33.515506 2023] [fcgid:warn] [pid 1157443] (104)Connection reset by peer: [client 95.97.116.11:35672] mod_fcgid: error reading data from FastCGI server
+[Thu Feb 09 20:28:33.515587 2023] [core:error] [pid 1157443] [client 95.97.116.11:35672] End of script output before headers: info.php
+[Thu Feb 09 20:29:11.136492 2023] [cgi:error] [pid 1157896] [client 95.97.116.11:35709] End of script output before headers: php8.1.cgi
+[Thu Feb 09 21:02:07.244383 2023] [cgi:error] [pid 1157897] [client 95.97.116.11:36291] End of script output before headers: php8.1.cgi
+[Fri Feb 10 00:41:41.013823 2023] [core:error] [pid 1174765] [client 185.180.143.79:46772] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/non-existant-image.png)
+[Fri Feb 10 00:41:41.850557 2023] [core:error] [pid 1174766] [client 185.180.143.79:48406] AH10244: invalid URI path (/icons/.%%32%65/.%%32%65/apache2/icons/sphere1.png)
+[Fri Feb 10 00:41:42.525388 2023] [core:error] [pid 1174762] [client 185.180.143.79:50408] AH10244: invalid URI path (/icons/.%2e/%2e%2e/apache2/icons/sphere1.png)
+[Fri Feb 10 19:30:51.874312 2023] [cgi:error] [pid 1237751] [client 95.97.116.11:39900] End of script output before headers: php8.1.cgi
+[Fri Feb 10 19:35:03.799089 2023] [cgi:error] [pid 1179216] [client 95.97.116.11:39923] End of script output before headers: php8.1.cgi
+[Fri Feb 10 19:35:12.545140 2023] [cgi:error] [pid 1237757] [client 95.97.116.11:39922] End of script output before headers: php8.1.cgi
+[Fri Feb 10 19:56:33.135557 2023] [cgi:error] [pid 1237753] [client 95.97.116.11:41462] End of script output before headers: php8.1.cgi
+[Fri Feb 10 19:56:35.960173 2023] [cgi:error] [pid 1237758] [client 95.97.116.11:41463] End of script output before headers: php8.1.cgi
+[Fri Feb 10 19:56:43.148606 2023] [cgi:error] [pid 1237748] [client 95.97.116.11:41468] End of script output before headers: php8.1.cgi
+[Fri Feb 10 19:56:48.423298 2023] [cgi:error] [pid 1179216] [client 95.97.116.11:41472] End of script output before headers: php8.1.cgi
+[Fri Feb 10 20:11:20.422638 2023] [cgi:error] [pid 1237892] [client 95.97.116.11:42025] End of script output before headers: php8.1.cgi
+[Fri Feb 10 20:11:25.775185 2023] [cgi:error] [pid 1237751] [client 95.97.116.11:42026] End of script output before headers: php8.1.cgi
+[Fri Feb 10 20:18:53.363791 2023] [cgi:error] [pid 1237757] [client 95.97.116.11:42358] End of script output before headers: php8.1.cgi
+[Fri Feb 10 20:18:56.181461 2023] [cgi:error] [pid 1176731] [client 95.97.116.11:42359] End of script output before headers: php8.1.cgi
+[Fri Feb 10 20:21:28.530614 2023] [cgi:error] [pid 1237751] [client 95.97.116.11:42494] End of script output before headers: php8.1.cgi
+[Fri Feb 10 20:21:31.348772 2023] [cgi:error] [pid 1237754] [client 95.97.116.11:42495] End of script output before headers: php8.1.cgi
+[Fri Feb 10 20:21:34.648989 2023] [cgi:error] [pid 1237753] [client 95.97.116.11:42509] End of script output before headers: php8.1.cgi
+[Fri Feb 10 20:48:56.094408 2023] [cgi:error] [pid 1257962] [client 95.97.116.11:58958] End of script output before headers: php8.1.cgi
+[Fri Feb 10 20:48:59.866453 2023] [cgi:error] [pid 1257963] [client 95.97.116.11:58959] End of script output before headers: php8.1.cgi
+[Fri Feb 10 20:49:04.173889 2023] [cgi:error] [pid 1257965] [client 95.97.116.11:58984] End of script output before headers: php8.1.cgi
+[Fri Feb 10 20:50:36.169658 2023] [authz_core:error] [pid 1257965] [client 164.92.179.10:37868] AH01630: client denied by server configuration: /media/disk/server/q-boomverzorger/public_html/server-status
+[Fri Feb 10 21:08:25.072754 2023] [cgi:error] [pid 1267235] [client 95.97.116.11:59549] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:08:27.862303 2023] [cgi:error] [pid 1267236] [client 95.97.116.11:59550] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:08:32.646096 2023] [cgi:error] [pid 1267237] [client 95.97.116.11:59568] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:09:32.412418 2023] [cgi:error] [pid 1267239] [client 95.97.116.11:59582] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:09:34.868836 2023] [cgi:error] [pid 1267235] [client 95.97.116.11:59583] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:09:40.607758 2023] [cgi:error] [pid 1267236] [client 95.97.116.11:59586] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:11:59.222296 2023] [cgi:error] [pid 1268512] [client 95.97.116.11:59730] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:12:01.097375 2023] [cgi:error] [pid 1268513] [client 95.97.116.11:59729] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:15:45.949234 2023] [cgi:error] [pid 1268515] [client 95.97.116.11:59938] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:15:52.503902 2023] [cgi:error] [pid 1268516] [client 95.97.116.11:59939] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:18:17.267675 2023] [cgi:error] [pid 1268513] [client 95.97.116.11:60015] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:19:17.071358 2023] [cgi:error] [pid 1268514] [client 95.97.116.11:60049] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:21:01.380530 2023] [cgi:error] [pid 1268516] [client 95.97.116.11:60128] End of script output before headers: php8.1.cgi
+[Fri Feb 10 21:21:40.422120 2023] [cgi:error] [pid 1268512] [client 95.97.116.11:60131] End of script output before headers: php8.1.cgi
